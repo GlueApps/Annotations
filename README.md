@@ -1,4 +1,8 @@
-## Usage
+# Installation
+
+    $ composer require glueapps/annotations
+
+# Usage
 
 ```php
 <?php
